@@ -38,7 +38,9 @@
     "Candace",
     "Nilou",
     "Neuvillette",
-    "Furina"
+    "Furina",
+    "Sigewinne",
+    "Mualani"
   ],
   "Cryo": [
     "Kaeya",
@@ -83,7 +85,8 @@
     "Arataki Itto",
     "Yun Jin",
     "Navia",
-    "Chiori"
+    "Chiori",
+    "Kachina"
   ],
   "Dendro": [
     "Collei",
@@ -93,6 +96,8 @@
     "Alhaitham",
     "Kaveh",
     "Baizhu",
-    "Kirara"
+    "Kirara",
+    "Emilie",
+    "Kinich"
   ]
 }
